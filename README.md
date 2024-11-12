@@ -4,7 +4,7 @@ Adds a keyboard scrap to Lethal Company. ([Discord link](https://discord.com/cha
 
 
 <details>
-<summary>Keyboard</summary>
+<summary>Keyboard details</summary>
 
 > Weight: 1 <br>
 > Max value: 80 <br>
