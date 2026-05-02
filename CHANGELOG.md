@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.1.2</summary>**
+
+ - Updated for V81.
+
+</details>
+
+---
+
 **<details><summary>Version 0.1.1</summary>**
 
  - Updated credits.
